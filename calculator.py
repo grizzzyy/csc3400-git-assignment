@@ -11,7 +11,7 @@ def multiply(x, y):
 
 def divide(x, y):
     if y == 0:
-        return "naurrr! Division by zero."
+        return "Error: You cannot divide by 0"
     return x / y
 
 def square_root(x):
